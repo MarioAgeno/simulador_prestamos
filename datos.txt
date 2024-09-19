@@ -1,0 +1,7 @@
+metodo=frances
+tasa=7.9
+gastosAdministrativos=1.0
+gastosBancarios=1.2
+impuestoSellado=0.375
+importeSolicitud=4.80
+tasaSeguro=0.12
